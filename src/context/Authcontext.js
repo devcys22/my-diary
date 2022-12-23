@@ -1,4 +1,4 @@
-import {createContext} from 'react';
+import {createContext, useReducer} from 'react';
 
 //context 객체를 생성합니다. 
 const AuthContext = createContext();

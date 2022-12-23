@@ -18,8 +18,10 @@ export const useLogin = () => {
         signInWithEmailAndPassword(appAuth, email, password)
             .then((userCredential) => {
                 const user = userCredential.user;
-                dispatch({ type: 'login', payload: user})
-                console.log(user);
+                dispatch({ type: 'login', payload: user});
+                setError(null);
+                setIsPending(false);    
+                //회원 정보를 정상적으로 받지 못하면 실패입니다.
 
                 if(!user){
                     throw new Error('회원가입에 실패했습니다.');

@@ -14,3 +14,7 @@
 
 #파이어베이스 인덱스 
 ![image](https://user-images.githubusercontent.com/78769412/209604340-0aa2803f-3ef9-4b33-b66e-6d2fe0741c7d.png)
+
+
+#파이어스토어 쿼리
+![image](https://user-images.githubusercontent.com/78769412/209618202-b1d8ea47-8681-45fb-b7b8-e76dab1d91e5.png) 

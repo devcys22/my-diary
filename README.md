@@ -27,3 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/78769412/209618202-b1d8ea47-8681-45fb-b7b8-e76dab1d91e5.png) 
 </div>
+
+
+<div>
+#홈 화면 스타일링!
+
+[image](https://user-images.githubusercontent.com/78769412/209637672-ed1be108-e31b-4f7f-b2ac-7f73bb55bb70.png)
+</div>
